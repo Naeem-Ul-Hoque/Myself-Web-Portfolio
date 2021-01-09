@@ -2,8 +2,8 @@ body{
     margin: 0%;
     font-family: 'Noto Sans KR', sans-serif;
 }
-h1{font-size: 50px;
-
+h1{
+    font-size: 50px;
 }
 h2{
     font-size: 40px;
@@ -22,7 +22,6 @@ p{
 }
 .half-width img{
     width: 110%;
-
 }
 .top-banner{
     background-image: url("images/top-banner.png");
